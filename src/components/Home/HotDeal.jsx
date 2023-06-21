@@ -16,19 +16,19 @@ export default function HotDeal() {
                 return (
                     <div key={i}>
                         <img src={item} 
-                            className=""
+                            className="w-screen"
                         />
                     </div>
                 )
             })}
             <img 
                 src="https://lmsin.net/cdn-cgi/image/w=300,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LSUber-Desktop-Promowidget18-Banner7-01March23.jpg"
-                className="hidden md:block"
+                className="hidden md:block w-screen"
             />
 
             <img 
                 src="https://lmsin.net/cdn-cgi/image/w=300,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LSUber-Desktop-Promowidget18-Banner8-01March23.jpg"
-                className="hidden md:block"
+                className="hidden md:block w-screen"
             />
         </div>
     )

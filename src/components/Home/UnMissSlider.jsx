@@ -78,7 +78,7 @@ const data = [
                 data.map((item, i) => {
                     return (
                         <div key={i} className='p-2 '>
-                            <img src={item} className='rounded-3xl cursor-pointer'/>
+                            <img src={item} className='rounded-3xl cursor-pointer w-screen'/>
                         </div>
                     )
                 })

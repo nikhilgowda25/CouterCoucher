@@ -44,7 +44,8 @@ export function Men() {
     return (
         <div className="">
             <MenFilter type={'men'} />
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-8 md:px-16 lg:px-32 pb-8 -mt-24">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:gap-8 
+            px-8 md:px-16 lg:px-32 pb-8 -mt-24">
                 {men.length > 0 && 
                     men.map((element) => {
                         return (

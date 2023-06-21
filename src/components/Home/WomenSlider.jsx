@@ -80,7 +80,7 @@ const data = [
                     return (
                         <div key={i} className='p-2'>
                           <Link to='/women'>
-                            <img src={item} className="rounded-3xl"/>
+                            <img src={item} className="rounded-3xl w-screen"/>
                           </Link>
                             <h1 className="text-center font-bold">Up to 50% Off</h1>
                         </div>

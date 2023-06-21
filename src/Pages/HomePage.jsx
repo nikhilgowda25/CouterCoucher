@@ -13,14 +13,14 @@ import BigDiscount from "../components/Home/BigDiscount"
 export default function HomePage() {
 
     return (
-        <div className="p-2">
+        <div className="p-2 xl:mx-auto container w-screen">
             
             <HomeSlider />
 
             <div className="my-2 px-2">
                 <img 
                     src="https://lmsin.net/cdn-cgi/image/w=1232,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/Uber-HP-Desktop-PromoStrip2-14Mar23.jpg" 
-                    className="rounded-3xl"
+                    className="rounded-3xl w-screen"
                 />
             </div>
 
@@ -64,7 +64,7 @@ export default function HomePage() {
             <div className="my-4 px-2">
                 <img 
                     src="https://lmsin.net/cdn-cgi/image/w=1232,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/Uber-HP-Desktop-PromoStrip3-25Mar2023.jpg" 
-                    className="rounded-3xl"
+                    className="rounded-3xl w-screen"
                     />
             </div>
 
@@ -81,7 +81,7 @@ export default function HomePage() {
             <div className="my-4 px-2">
                 <img 
                     src="https://lmsin.net/cdn-cgi/image/w=1232,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LS-UberHP-PromoWidget24-Desk-Banner1-07Mar23.jpg" 
-                    className="rounded-3xl"
+                    className="rounded-3xl w-screen"
                 />
             </div>
 
@@ -94,7 +94,7 @@ export default function HomePage() {
             <div className="my-4 px-2">
                 <img 
                     src="https://lmsin.net/cdn-cgi/image/w=1232,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-LS-UBERHP-GiftCard-13modblock-oneBythree-A-07Mar2023.jpg"
-                    className="rounded-3xl"
+                    className="rounded-3xl w-screen"
                 />
             </div>
 
@@ -107,7 +107,7 @@ export default function HomePage() {
             <div className="my-4 px-2">
                 <img 
                     src="https://lmsin.net/cdn-cgi/image/w=1232,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LS-UberHP-Promowidget26-Desk-Banner1-08Mar23.jpg"
-                    className="rounded-3xl"
+                    className="rounded-3xl w-screen"
                 />
             </div>
 
@@ -120,7 +120,7 @@ export default function HomePage() {
             <div className="my-4 px-2">
                 <img 
                     src="https://lmsin.net/cdn-cgi/image/w=1232,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LS-UberHP-Promowidget23-Desk-Banner1-14Mar23.gif"
-                    className="rounded-3xl"
+                    className="rounded-3xl w-screen"
                 />
             </div>
             

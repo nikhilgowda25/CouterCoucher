@@ -44,7 +44,8 @@ export function Women() {
     return (
         <div className="">
             <MenFilter type={'women'} />
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-8 md:px-16 lg:px-32 pb-8 -mt-24">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:gap-8 
+            px-8 md:px-16 lg:px-32 pb-8 -mt-24">
                 {women.length > 0 && 
                     women.map((element) => {
                         return (

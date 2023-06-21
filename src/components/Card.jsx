@@ -48,7 +48,7 @@ export default function Card({actualPrice, type, id, image, price, title, discou
             <div className="relative" onMouseOver={showbutton} onMouseOut={hideButton} >
                 <Link to={`/${type}/${id}`}>
                     <img src={image} 
-                        className="w-48 h-64 rounded-3xl"
+                        className="w-48 h-64 rounded-3xl xl:w-full xl:h-full"
                     />
                 </Link>
                 <div className="flex items-center">
