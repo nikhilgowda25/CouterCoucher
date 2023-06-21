@@ -192,7 +192,7 @@ export default function Footer() {
             
             <div className="py-4 px-8 flex items-center gap-8 text-center justify-center">
                 <div>
-                    <img src="src\assets\Header\coutureChaos_Logo-main.png" className="w-30 h-12"/>
+                    <img src="\assets\Header\coutureChaos_Logo-main.png" className="w-30 h-12"/>
                 </div>
                 <div className="text-sm text-gray-600">
                     <p>&#169; 2023 VM Intellectual Property Limited.</p>

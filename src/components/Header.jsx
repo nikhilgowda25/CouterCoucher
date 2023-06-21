@@ -63,7 +63,7 @@ export default function Header() {
                     </div>
                 )}
                 <Link to="/">
-                    <img src="src\assets\Header\coutureChaos_Logo-main.png" className="w-30 h-12"/>
+                    <img src="\assets\Header\coutureChaos_Logo-main.png" className="w-30 h-12"/>
                 </Link>
 
                 <Link to='/women'>

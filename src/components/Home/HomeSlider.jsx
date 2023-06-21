@@ -17,22 +17,22 @@ export default function HomeSlider() {
     return (
         <Slider {...settings} className=" mb-8 p-2 mt-28 lg:mt-16">
             <div>
-                <img src="src\assets\HomeSlider\SliderImage1.jpg" />
+                <img src="\assets\HomeSlider\SliderImage1.jpg" />
             </div>
             <div>
-                <img src="src\assets\HomeSlider\SliderImage2.gif" />
+                <img src="\assets\HomeSlider\SliderImage2.gif" />
             </div>
             <div>
-                <img src="src\assets\HomeSlider\SliderImage3.jpg" />
+                <img src="\assets\HomeSlider\SliderImage3.jpg" />
             </div>
             <div>
-                <img src="src\assets\HomeSlider\SliderImage4.gif" />
+                <img src="\assets\HomeSlider\SliderImage4.gif" />
             </div>
             <div>
-                <img src="src\assets\HomeSlider\SliderImage5.jpg" />
+                <img src="\assets\HomeSlider\SliderImage5.jpg" />
             </div>
             <div>
-                <img src="src\assets\HomeSlider\SliderImage6.jpg" />
+                <img src="\assets\HomeSlider\SliderImage6.jpg" />
             </div>
         </Slider>
     )
