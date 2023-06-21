@@ -9,7 +9,7 @@ Lifestyle is India's leading fashion destination for the latest trends. Part of 
 ## Features
 
 - Detailed Description Of Each Product
-- Seperate sestion for Men and Women with sorting and filtering options
+- Seperate section for Men and Women with sorting and filtering options
 - Add functionality to card, with desired quantity of each product
 - Increase or decrease the quantity, as well as delete the item from the card
 
